@@ -1,0 +1,77 @@
+#UseyourDrive div.jp-playlist {
+  background-color: %background%
+}
+
+#UseyourDrive .jp-progress .jp-seek-bar .jp-seek-bar {
+  background-color: %light1%
+}
+
+#UseyourDrive.jp-progress .jp-seek-bar {
+  background-color: %light2%
+}
+
+#UseyourDrive .jp-progress .jp-seek-bar .jp-play-bar,
+#UseyourDrive .jp-progress .jp-seek-bar:after,
+#UseyourDrive .jp-volume-bar .currentVolume .jp-volume-bar-value,
+#UseyourDrive .jp-progress .jp-seek-bar .jp-play-bar:after {
+  background-color: %accent%
+}
+
+#UseyourDrive .audio .jp-progress .jp-seek-bar .jp-play-bar,
+#UseyourDrive .audio .jp-progress .jp-seek-bar:after,
+#UseyourDrive .audio .jp-volume-bar .currentVolume .jp-volume-bar-value,
+#UseyourDrive .audio .jp-progress .jp-seek-bar .jp-play-bar:after {
+  background-color: %black%
+}
+
+#UseyourDrive.light div.jp-playlist {
+  background: %background%;
+}
+
+#UseyourDrive .jp-gui {
+  background: %accent%;
+  background: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.35));
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.35));
+}
+
+#UseyourDrive.audio .jp-gui,
+#UseyourDrive.audio .jp-progress {
+  background: %accent%;
+}
+
+#UseyourDrive.light .playerScreen .jp-video-play-button,
+#UseyourDrive.light .playerScreen .jp-video-play-button:hover {
+  background-color: %accent%;
+  color: %black%;
+}
+
+#UseyourDrive.light .media .jp-playlist-item-imgl {
+  background: %white%;
+}
+
+#UseyourDrive div.jp-playlist li,
+#UseyourDrive.light div.jp-playlist-item-song-title,
+#UseyourDrive.light div.jp-playlist-item-song-artist {
+  color: %white%
+}
+
+#UseyourDrive.light div.jp-playlist li:nth-child(even) {
+  background: %dark1%;
+}
+
+#UseyourDrive.light div.jp-playlist .jp-playlist-folder-header,
+#UseyourDrive.light div.jp-playlist li:hover {
+  background: %dark2%;
+}
+
+#UseyourDrive.light div.jp-playlist .jp-playlist-folder-header:hover,
+#UseyourDrive.light div.jp-playlist .jp-playlist-current,
+#UseyourDrive.light div.jp-playlist .jp-playlist-current .jp-playlist-item-song-title,
+#UseyourDrive.light div.jp-playlist .jp-playlist-current .jp-playlist-item-song-artist {
+  background: %accent% !important;
+  color: %black% !important;
+}
+
+#UseyourDrive div.jp-playlist::-webkit-scrollbar-thumb {
+  background-color: %accent%;
+}

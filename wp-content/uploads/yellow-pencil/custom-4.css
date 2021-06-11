@@ -1,79 +1,0 @@
-/*
-
-    The following CSS codes are created by the YellowPencil plugin.
-    https://yellowpencil.waspthemes.com/
-
-
-    T A B L E   O F   C O N T E N T S
-    ........................................................................
-
-    01. Global Styles
-    02. "HI" Post
-    03. "Home" Page
-
-*/
-
-
-
-/*-----------------------------------------------*/
-/*  Global Styles                                */
-/*-----------------------------------------------*/
-body .entry-header .entry-title a.yp_onscreen{
-	-webkit-animation-name:flash,pop;	animation-name:flash,pop;
-	-webkit-animation-delay:0s,1s;	animation-delay:0s,1s;
-	-webkit-animation-duration:1s,1s;	animation-duration:1s,1s;
-}
-
-body .hentry p.yp_onscreen{
-	-webkit-transform-origin:center bottom;	-ms-transform-origin:center bottom;	transform-origin:center bottom;
-	-webkit-animation-name:bounce;	animation-name:bounce;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-
-
-/*-----------------------------------------------*/
-/*  "HI" Post                                    */
-/*-----------------------------------------------*/
-body.postid-1 #commentform{
-	display:none;
-}
-
-body.postid-1 .widget-area .widget h2{
-	display:none;
-}
-
-body.postid-1 #page{
-	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
-}
-
-
-
-/*-----------------------------------------------*/
-/*  "Home" Page                                  */
-/*-----------------------------------------------*/
-body.page-id-367 .ast-article-single .wp-block-cover h1.yp_onscreen{
-	-webkit-animation-name:flash;	animation-name:flash;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body.page-id-367 #about .wp-block-media-text .wp-image-359.yp_onscreen{
-	-webkit-animation-name:bob;	animation-name:bob;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body.page-id-367 .ast-article-single .wp-block-cover h1{
-	font-family:'Mouse Memoirs', sans-serif;
-	-webkit-transform:translatex(16px) translatey(-10px);	-ms-transform:translatex(16px) translatey(-10px);	transform:translatex(16px) translatey(-10px);
-}
-
-@media (min-width:922px){
-
-	body.page-id-367 .ast-article-single .wp-block-cover h1{
-	font-size:100px;
-	}
-
-}

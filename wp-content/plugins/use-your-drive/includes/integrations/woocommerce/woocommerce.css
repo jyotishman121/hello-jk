@@ -1,0 +1,12 @@
+.button.insert-googledrive,
+.button.insert-googledrive:hover,
+.button.insert-googledrive:active,
+.button.insert-googledrive:focus {
+  float: right;
+  margin-right: 7px;
+  background-image: url("../../../css/images/googledrive-icon.svg");
+  background-repeat: no-repeat;
+  background-position: 6px center;
+  padding-left: 25px;
+  background-size: 1em;
+}

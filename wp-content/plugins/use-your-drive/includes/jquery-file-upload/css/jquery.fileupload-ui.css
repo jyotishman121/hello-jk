@@ -1,0 +1,87 @@
+@charset "UTF-8";
+/*
+ * jQuery File Upload UI Plugin CSS 9.0.0
+ * https://github.com/blueimp/jQuery-File-Upload
+ *
+ * Copyright 2010, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ */
+
+#UseyourDrive .fileupload-buttonbar .btn,
+#UseyourDrive .fileupload-buttonbar .toggle {
+  margin-bottom: 5px;
+}
+
+#UseyourDrive .fileinput-button {
+  position: relative;
+  overflow: hidden;
+}
+#UseyourDrive .fileinput-button input {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  opacity: 0;
+  -ms-filter: 'alpha(opacity=0)';
+  font-size: 100px;
+  direction: ltr;
+  cursor: pointer;
+}
+
+/* Fixes for IE < 8 */
+@media screen\9 {
+  #UseyourDrive .fileinput-button input {
+    filter: alpha(opacity=0);
+    font-size: 100%;
+    height: 100%;
+  }
+}
+
+#UseyourDrive .fileupload-buttonbar .btn,
+#UseyourDrive .fileupload-buttonbar .toggle {
+  margin-bottom: 5px;
+}
+#UseyourDrive .progress-animated .progress-bar,
+#UseyourDrive .progress-animated .bar {
+  background: url("../img/progressbar.gif") !important;
+  filter: none;
+}
+#UseyourDrive .fileupload-process {
+  float: right;
+  display: none;
+}
+#UseyourDrive .fileupload-processing .fileupload-process,
+#UseyourDrive .files .processing .preview {
+  display: block;
+  width: 32px;
+  height: 32px;
+  background: url("../img/loading.gif") center no-repeat;
+  background-size: contain;
+}
+#UseyourDrive .files audio,
+#UseyourDrive .files video {
+  max-width: 300px;
+}
+
+@media (max-width: 767px) {
+  #UseyourDrive .fileupload-buttonbar .toggle,
+  #UseyourDrive .files .toggle,
+  #UseyourDrive .files .btn span {
+    display: none;
+  }
+  #UseyourDrive .files .name {
+    width: 80px;
+    word-wrap: break-word;
+  }
+  #UseyourDrive .files audio,
+  #UseyourDrive .files video {
+    max-width: 80px;
+  }
+  #UseyourDrive .files img,
+  #UseyourDrive .files canvas {
+    max-width: 100%;
+  }
+}
