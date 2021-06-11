@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="192px" height="172px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.333009,0,0,0.333009,95.9066,86)">
+        <g id="comment-regular.svg" transform="matrix(1,0,0,1,-256,-256)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="512" height="512"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <path d="M256,32C114.6,32 0,125.1 0,240C0,287.6 19.9,331.2 52.9,366.3C38,405.7 7,439.1 6.5,439.5C-0.1,446.5 -1.9,456.7 1.9,465.5C5.7,474.3 14.4,480 24,480C85.5,480 134,454.3 163.1,433.7C192,442.8 223.2,448 256,448C397.4,448 512,354.9 512,240C512,125.1 397.4,32 256,32ZM256,400C229.3,400 202.9,395.9 177.6,387.9L154.9,380.7L135.4,394.5C121.1,404.6 101.5,415.9 77.9,423.5C85.2,411.4 92.3,397.8 97.8,383.3L108.4,355.2L87.8,333.4C69.7,314.1 48,282.2 48,240C48,151.8 141.3,80 256,80C370.7,80 464,151.8 464,240C464,328.2 370.7,400 256,400Z" style="fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="comment-regular.svg1" serif:id="comment-regular.svg">
+        </g>
+    </g>
+</svg>
