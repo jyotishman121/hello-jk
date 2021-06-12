@@ -11,6 +11,7 @@
     02. Non-Static Homepage
     03. "HI" Post
     04. "Elementor #490" Page
+    05. "Home" Page
 
 */
 
@@ -221,4 +222,18 @@ body.page-id-490 .elementor-element-11de5d6 .elementor-widget-heading h2.yp_onsc
 	-webkit-animation-name:shake;	animation-name:shake;
 	-webkit-animation-delay:0s;	animation-delay:0s;
 	-webkit-animation-duration:1s;	animation-duration:1s;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Home" Page                                  */
+/*-----------------------------------------------*/
+body.page-id-545 .ast-grid-center-col-layout .site-title a{
+	padding-top:16px;
+	-webkit-transform:translatex(0px) translatey(-25px);	-ms-transform:translatex(0px) translatey(-25px);	transform:translatex(0px) translatey(-25px);
+}
+
+body.page-id-545 .ast-article-single .wp-block-cover h1{
+	-webkit-transform:translatex(-10px) translatey(42px);	-ms-transform:translatex(-10px) translatey(42px);	transform:translatex(-10px) translatey(42px);
 }
