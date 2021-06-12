@@ -1,0 +1,38 @@
+.et_pb_bg_layout_light.et_pb_module.et_pb_button {
+  color: #2EA3F2; }
+
+.et_pb_module.et_pb_button {
+  display: inline-block;
+  color: inherit; }
+
+.et_pb_button_module_wrapper.et_pb_button_alignment_left {
+  text-align: left; }
+
+.et_pb_button_module_wrapper.et_pb_button_alignment_right {
+  text-align: right; }
+
+.et_pb_button_module_wrapper.et_pb_button_alignment_center {
+  text-align: center; }
+
+.et_pb_button_module_wrapper > a {
+  display: inline-block; }
+
+@media all and (max-width: 980px) {
+  .et_pb_button_module_wrapper.et_pb_button_alignment_tablet_left {
+    text-align: left; }
+  .et_pb_button_module_wrapper.et_pb_button_alignment_tablet_right {
+    text-align: right; }
+  .et_pb_button_module_wrapper.et_pb_button_alignment_tablet_center {
+    text-align: center; } }
+
+/* Responsive Styles Smartphone Only */
+@media all and (max-width: 767px) {
+  .et_pb_button_module_wrapper.et_pb_button_alignment_phone_left {
+    text-align: left; }
+  .et_pb_button_module_wrapper.et_pb_button_alignment_phone_right {
+    text-align: right; }
+  .et_pb_button_module_wrapper.et_pb_button_alignment_phone_center {
+    text-align: center; } }
+
+
+/*# sourceMappingURL=button.css.map*/

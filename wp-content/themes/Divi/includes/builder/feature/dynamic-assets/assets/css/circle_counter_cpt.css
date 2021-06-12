@@ -1,0 +1,48 @@
+.et-db #et-boc .et-l {
+  /* Circle Counter Module */ }
+  .et-db #et-boc .et-l .et_pb_circle_counter {
+    word-wrap: break-word; }
+  .et-db #et-boc .et-l .et_pb_circle_counter {
+    margin: 0 auto 30px;
+    position: relative;
+    text-align: center; }
+  .et-db #et-boc .et-l .et_pb_circle_counter {
+    max-width: 225px; }
+  .et-db #et-boc .et-l .et_pb_circle_counter_inner {
+    position: relative;
+    display: block; }
+  .et-db #et-boc .et-l .et_pb_circle_counter canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: auto !important; }
+  .et-db #et-boc .et-l .et_pb_circle_counter .percent {
+    word-wrap: initial; }
+  .et-db #et-boc .et-l .et_pb_circle_counter .percent {
+    position: relative;
+    z-index: 2; }
+  .et-db #et-boc .et-l .et_pb_circle_counter .percent p {
+    visibility: hidden; }
+  .et-db #et-boc .et-l .et_pb_circle_counter .percent p {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative;
+    line-height: 0.1em;
+    padding: 49% 0; }
+  .et-db #et-boc .et-l .et_pb_circle_counter h3 {
+    font-size: 18px;
+    position: relative; }
+  .et-db #et-boc .et-l .et_pb_circle_counter .et_pb_module_header {
+    position: relative; }
+  .et-db #et-boc .et-l .et_pb_circle_counter.et_pb_with_title .percent {
+    margin-bottom: 20px; }
+  .et-db #et-boc .et-l .et_pb_slide_content .et_pb_circle_counter .percent p:last-of-type {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative;
+    line-height: 0.1em;
+    padding: 49% 0; }
+
+
+/*# sourceMappingURL=circle_counter_cpt.css.map*/

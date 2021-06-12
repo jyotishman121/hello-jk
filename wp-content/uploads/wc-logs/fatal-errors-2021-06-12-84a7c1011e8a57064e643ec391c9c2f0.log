@@ -1,0 +1,24 @@
+2021-06-12T12:57:47+00:00 CRITICAL Uncaught AmpProject\AmpWP\Exception\InvalidService: The service ID "dev_tools.user_access" is not recognized and cannot be retrieved. in C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Exception\InvalidService.php:57
+Stack trace:
+#0 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceContainer\SimpleServiceContainer.php(39): AmpProject\AmpWP\Exception\InvalidService::from_service_id('dev_tools.user_...')
+#1 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Services.php(55): AmpProject\AmpWP\Infrastructure\ServiceContainer\SimpleServiceContainer->get('dev_tools.user_...')
+#2 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Admin\ValidationCounts.php(47): AmpProject\AmpWP\Services::get('dev_tools.user_...')
+#3 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceBasedPlugin.php(288): AmpProject\AmpWP\Admin\ValidationCounts::is_needed()
+#4 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceBasedPlugin.php(199): AmpProject\AmpWP\Infrastructure\Service in C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Exception\InvalidService.php on line 57
+
+2021-06-12T13:12:53+00:00 CRITICAL Uncaught AmpProject\AmpWP\Exception\InvalidService: The service ID "dev_tools.user_access" is not recognized and cannot be retrieved. in C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Exception\InvalidService.php:57
+Stack trace:
+#0 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceContainer\SimpleServiceContainer.php(39): AmpProject\AmpWP\Exception\InvalidService::from_service_id('dev_tools.user_...')
+#1 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Services.php(55): AmpProject\AmpWP\Infrastructure\ServiceContainer\SimpleServiceContainer->get('dev_tools.user_...')
+#2 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Admin\ValidationCounts.php(47): AmpProject\AmpWP\Services::get('dev_tools.user_...')
+#3 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceBasedPlugin.php(288): AmpProject\AmpWP\Admin\ValidationCounts::is_needed()
+#4 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceBasedPlugin.php(199): AmpProject\AmpWP\Infrastructure\Service in C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Exception\InvalidService.php on line 57
+
+2021-06-12T13:13:03+00:00 CRITICAL Uncaught AmpProject\AmpWP\Exception\InvalidService: The service ID "dev_tools.user_access" is not recognized and cannot be retrieved. in C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Exception\InvalidService.php:57
+Stack trace:
+#0 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceContainer\SimpleServiceContainer.php(39): AmpProject\AmpWP\Exception\InvalidService::from_service_id('dev_tools.user_...')
+#1 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Services.php(55): AmpProject\AmpWP\Infrastructure\ServiceContainer\SimpleServiceContainer->get('dev_tools.user_...')
+#2 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Admin\ValidationCounts.php(47): AmpProject\AmpWP\Services::get('dev_tools.user_...')
+#3 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceBasedPlugin.php(288): AmpProject\AmpWP\Admin\ValidationCounts::is_needed()
+#4 C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Infrastructure\ServiceBasedPlugin.php(199): AmpProject\AmpWP\Infrastructure\Service in C:\wamp64\www\hello-jk\wp-content\plugins\amp\src\Exception\InvalidService.php on line 57
+

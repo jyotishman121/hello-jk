@@ -1,0 +1,16 @@
+.et-db #et-boc .et-l .et_pb_wc_cart_notice .woocommerce-error {
+  background-color: transparent;
+  margin: 0; }
+
+.et-db #et-boc .et-l .et_pb_wc_cart_notice .wc-forward {
+  border-width: 0;
+  border-style: solid; }
+
+.et-db #et-boc .et-l .et_pb_wc_cart_notice .woocommerce-message {
+  margin: 0;
+  border-width: 0 !important;
+  border-style: solid !important;
+  border-color: #333 !important; }
+
+
+/*# sourceMappingURL=woo_cart_notice_cpt.css.map*/

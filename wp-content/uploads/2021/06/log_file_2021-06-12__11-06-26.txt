@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Startup were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/hello-jk
+Data file = C:\wamp64\www\hello-jk/wp-content/uploads/2021/06/demo-content-import-file_2021-06-12__11-06-26.xml
+Widget file = C:\wamp64\www\hello-jk/wp-content/uploads/2021/06/demo-widgets-import-file_2021-06-12__11-06-26.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Blog Widgets : 
+
+Search - No Title - Imported
+Shufflehound Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Footer Widgets : 
+
+Shufflehound Information - No Title - Imported
+Shufflehound Recent Posts - No Title - Imported
+Shufflehound Contacts - No Title - Imported
+
+
+
+---ocdi/after_import---
+

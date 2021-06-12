@@ -1,0 +1,9 @@
+.et-db #et-boc .et-l {
+  /* Word Break */ }
+  .et-db #et-boc .et-l .et_pb_wc_title {
+    word-wrap: break-word; }
+  .et-db #et-boc .et-l .et_pb_wc_title h1 {
+    padding-bottom: 0; }
+
+
+/*# sourceMappingURL=woo_title_cpt.css.map*/

@@ -1,0 +1,130 @@
+.et_pb_portfolio_item {
+  word-wrap: break-word; }
+
+.et_pb_with_border .et_portfolio_image {
+  border-width: 0;
+  border-style: solid;
+  border-color: #333333; }
+
+.et_portfolio_image img {
+  vertical-align: bottom;
+  margin-bottom: 0; }
+
+.et_pb_portfolio_item {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; }
+
+.et_pb_with_border .et_pb_portfolio_item,
+.et_pb_with_border .et_pb_portfolio_image {
+  border-width: 0;
+  border-style: solid;
+  border-color: #333333; }
+
+.et_pb_portfolio_item h3 a,
+.et_pb_portfolio_item .et_pb_module_header a {
+  text-decoration: none; }
+
+.et_pb_portfolio_item .post-meta a {
+  text-decoration: none; }
+
+.et_pb_bg_layout_light .et_pb_portfolio_item .post-meta,
+.et_pb_bg_layout_light .et_pb_portfolio_item .post-meta a {
+  color: #666; }
+
+.et_pb_bg_layout_dark .et_pb_portfolio_item .post-meta,
+.et_pb_bg_layout_dark .et_pb_portfolio_item .post-meta a {
+  color: inherit; }
+
+.et_pb_portfolio_item h2,
+.et_pb_portfolio_item .et_pb_module_header {
+  margin-top: 10px; }
+
+.et_pb_portfolio_image:hover .et_overlay {
+  z-index: 3;
+  opacity: 1; }
+
+.et_pb_portfolio .et_pb_portfolio_item {
+  position: relative; }
+
+.et_pb_portfolio.et_pb_section_parallax .pagination,
+.et_pb_portfolio.et_pb_section_parallax .wp-pagenavi,
+.et_pb_portfolio.et_pb_section_video .pagination,
+.et_pb_portfolio.et_pb_section_video .wp-pagenavi,
+.et_pb_portfolio_grid.et_pb_section_parallax .pagination,
+.et_pb_portfolio_grid.et_pb_section_parallax .wp-pagenavi,
+.et_pb_portfolio_grid.et_pb_section_video .pagination,
+.et_pb_portfolio_grid.et_pb_section_video .wp-pagenavi {
+  position: relative; }
+
+.et_pb_portfolio_items_wrapper.no_pagination {
+  border-bottom: none; }
+
+@media all and (min-width: 981px) {
+  .et_pb_portfolio_grid .et_pb_portfolio_item img {
+    width: 100%; }
+  .et_pb_portfolio_grid .et_pb_portfolio_item h2,
+  .et_pb_portfolio_grid .et_pb_portfolio_item .et_pb_module_header {
+    word-wrap: break-word;
+    margin: 10px 0 0;
+    padding-bottom: 0; }
+  .et_pb_portfolio_grid .et_pb_portfolio_item h2 {
+    font-size: 18px; }
+  .et_pb_portfolio_item .post-meta {
+    font-size: 14px;
+    margin: .4em 0 0; } }
+
+@media all and (max-width: 980px) {
+  .et_pb_bg_layout_light_tablet .et_pb_portfolio_item .post-meta,
+  .et_pb_bg_layout_light_tablet .et_pb_portfolio_item .post-meta a {
+    color: #666; }
+  .et_pb_bg_layout_dark_tablet .et_pb_portfolio_item .post-meta,
+  .et_pb_bg_layout_dark_tablet .et_pb_portfolio_item .post-meta a {
+    color: inherit; }
+  .et_pb_column .et_pb_grid_item.et_pb_portfolio_item {
+    margin: 0 5.5% 7.5% 0;
+    width: 29.666%;
+    clear: none;
+    float: left; }
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item:nth-child(3n) {
+      margin-right: 0; }
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item:nth-child(3n+1) {
+      clear: both; } }
+
+/* Responsive Styles Smartphone Only */
+@media all and (max-width: 767px) {
+  .et_pb_portfolio_item h2 {
+    font-size: 18px; }
+  .et_pb_bg_layout_light_phone .et_pb_portfolio_item .post-meta,
+  .et_pb_bg_layout_light_phone .et_pb_portfolio_item .post-meta a {
+    color: #666; }
+  .et_pb_bg_layout_dark_phone .et_pb_portfolio_item .post-meta,
+  .et_pb_bg_layout_dark_phone .et_pb_portfolio_item .post-meta a {
+    color: inherit; }
+  .et_pb_column .et_pb_grid_item.et_pb_portfolio_item {
+    margin: 0 5.5% 9.5% 0;
+    width: 47.25%;
+    clear: none;
+    float: left; }
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item:nth-child(3n) {
+      margin-right: 5.5%; }
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item:nth-child(3n+1) {
+      clear: none; }
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item:nth-child(2n),
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item .last_in_row {
+      margin-right: 0; }
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item:nth-child(2n+1),
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item .first_in_row {
+      clear: both; } }
+
+@media all and (max-width: 479px) {
+  .et_pb_portfolio_item {
+    margin-bottom: 22px; }
+  .et_pb_column .et_pb_grid_item.et_pb_portfolio_item {
+    margin: 0 0 11.5% 0;
+    width: 100%; }
+    .et_pb_column .et_pb_grid_item.et_pb_portfolio_item .on_last_row {
+      margin-bottom: 0; } }
+
+
+/*# sourceMappingURL=portfolio.css.map*/

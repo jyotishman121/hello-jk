@@ -1,0 +1,15 @@
+.et-db #et-boc .et-l .et_pb_text {
+  word-wrap: break-word; }
+
+.et-db #et-boc .et-l .et_pb_text ul,
+.et-db #et-boc .et-l .et_pb_text ol {
+  padding-bottom: 1em; }
+
+.et-db #et-boc .et-l .et_pb_text > :last-child {
+  padding-bottom: 0; }
+
+.et-db #et-boc .et-l .et_pb_text_inner {
+  position: relative; }
+
+
+/*# sourceMappingURL=text_cpt.css.map*/

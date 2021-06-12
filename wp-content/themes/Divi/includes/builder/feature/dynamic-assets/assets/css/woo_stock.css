@@ -1,0 +1,15 @@
+/* Word Break */
+.et_pb_wc_stock {
+  word-wrap: break-word; }
+
+.et_pb_wc_stock .out-of-stock {
+  color: #ff0000; }
+
+.et_pb_wc_stock .in-stock {
+  color: #77a464; }
+
+.et_pb_wc_stock .stock {
+  font-size: 13px; }
+
+
+/*# sourceMappingURL=woo_stock.css.map*/

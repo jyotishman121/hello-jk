@@ -1,0 +1,39 @@
+
+---Downloaded files---
+The import files for: Startup (WPBakery Builder) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/hello-jk
+Data file = C:\wamp64\www\hello-jk/wp-content/uploads/2021/06/demo-content-import-file_2021-06-12__12-58-39.xml
+Widget file = C:\wamp64\www\hello-jk/wp-content/uploads/2021/06/demo-widgets-import-file_2021-06-12__12-58-39.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				One Click Demo Import - log_file_2018-08-14__08-25-17		" (Media)
+
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Blog Widgets : 
+
+Search - No Title - Widget already exists
+Shufflehound Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Footer Widgets : 
+
+Shufflehound Information - No Title - Widget already exists
+Shufflehound Recent Posts - No Title - Widget already exists
+Shufflehound Contacts - No Title - Widget already exists
+
+
+
+---ocdi/after_import---
+

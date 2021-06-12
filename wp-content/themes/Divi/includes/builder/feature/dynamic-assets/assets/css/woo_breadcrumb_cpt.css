@@ -1,0 +1,21 @@
+.et-db #et-boc .et-l {
+  /* Word Break */ }
+  .et-db #et-boc .et-l .et_pb_wc_breadcrumb {
+    word-wrap: break-word; }
+  .et-db #et-boc .et-l .et_pb_with_border .woocommerce-breadcrumb {
+    border-width: 0;
+    border-style: solid;
+    border-color: #333333; }
+  .et-db #et-boc .et-l .et-dynamic-content-woo--product_breadcrumb.woocommerce .woocommerce-breadcrumb {
+    color: inherit !important;
+    font-family: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: inherit;
+    letter-spacing: inherit;
+    line-height: inherit;
+    text-align: inherit;
+    text-shadow: inherit; }
+
+
+/*# sourceMappingURL=woo_breadcrumb_cpt.css.map*/

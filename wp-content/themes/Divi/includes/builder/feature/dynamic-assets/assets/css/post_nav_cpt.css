@@ -1,0 +1,24 @@
+.et-db #et-boc .et-l .et_pb_with_border.et_pb_posts_nav span.nav-next a,
+.et-db #et-boc .et-l .et_pb_with_border.et_pb_posts_nav span.nav-previous a {
+  border-width: 0;
+  border-style: solid;
+  border-color: #333333; }
+
+.et-db #et-boc .et-l .et_pb_posts_nav.nav-single:after {
+  clear: both;
+  display: block;
+  content: ""; }
+
+.et-db #et-boc .et-l .et_pb_posts_nav a {
+  display: inline-block; }
+
+.et-db #et-boc .et-l .et_pb_posts_nav .nav-previous,
+.et-db #et-boc .et-l .et_pb_posts_nav .nav-next {
+  position: relative; }
+
+.et-db #et-boc .et-l .et_pb_posts_nav .meta-nav,
+.et-db #et-boc .et-l .et_pb_posts_nav .nav-label {
+  position: relative; }
+
+
+/*# sourceMappingURL=post_nav_cpt.css.map*/

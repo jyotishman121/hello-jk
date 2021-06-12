@@ -1,0 +1,100 @@
+.et-db #et-boc .et-l {
+  /* Default Border Styles */
+  /* Responsive Styles Small Desktop */
+  /* Responsive Styles Tablet And Below */
+  /* Responsive Styles Smartphone Only */
+  /* Responsive Styles Smartphone Portrait */ }
+  .et-db #et-boc .et-l .et_pb_post {
+    margin-bottom: 60px;
+    word-wrap: break-word; }
+  .et-db #et-boc .et-l .et_pb_with_border .et_pb_post img:not(.woocommerce-placeholder),
+  .et-db #et-boc .et-l .et_pb_with_border .et_pb_post .et_pb_slides,
+  .et-db #et-boc .et-l .et_pb_with_border.et_pb_posts .et_pb_post,
+  .et-db #et-boc .et-l .et_pb_with_border.et_pb_posts_nav span.nav-previous a,
+  .et-db #et-boc .et-l .et_pb_with_border.et_pb_posts_nav span.nav-next a,
+  .et-db #et-boc .et-l .et_pb_post_content.et_pb_with_border img,
+  .et-db #et-boc .et-l .et_pb_fullwidth_post_content.et_pb_with_border img {
+    border-width: 0;
+    border-style: solid;
+    border-color: #333333; }
+  .et-db #et-boc .et-l .et_pb_post .entry-content {
+    padding-top: 30px; }
+  .et-db #et-boc .et-l .et_pb_post .entry-featured-image-url {
+    display: block;
+    position: relative;
+    margin-bottom: 30px; }
+  .et-db #et-boc .et-l .et_pb_post h2 a,
+  .et-db #et-boc .et-l .et_pb_post .entry-title a {
+    text-decoration: none; }
+  .et-db #et-boc .et-l .et_pb_post .post-meta {
+    font-size: 14px;
+    margin-bottom: 6px; }
+  .et-db #et-boc .et-l .et_pb_post .post-meta a {
+    text-decoration: none; }
+  .et-db #et-boc .et-l .et_pb_post .more {
+    color: #82c0c7;
+    text-decoration: none; }
+  .et-db #et-boc .et-l .et_pb_posts a.more-link {
+    clear: both;
+    display: block; }
+  .et-db #et-boc .et-l .et_pb_posts .et_pb_post {
+    position: relative; }
+  .et-db #et-boc .et-l .et_pb_has_overlay.et_pb_post .et_pb_image_container a {
+    display: block;
+    position: relative;
+    overflow: hidden; }
+  .et-db #et-boc .et-l .et_pb_image_container img,
+  .et-db #et-boc .et-l .et_pb_post a img {
+    vertical-align: bottom;
+    max-width: 100%; }
+  @media all and (min-width: 981px) and (max-width: 1100px) {
+    .et-db #et-boc .et-l .et_pb_post {
+      margin-bottom: 42px; } }
+  @media all and (max-width: 980px) {
+    .et-db #et-boc .et-l {
+      /* Text Color - Layout Light - Tablet */
+      /* Text Color - Layout Dark - Tablet */ }
+      .et-db #et-boc .et-l .et_pb_post {
+        margin-bottom: 42px; }
+      .et-db #et-boc .et-l .et_pb_bg_layout_light_tablet .et_pb_post .post-meta,
+      .et-db #et-boc .et-l .et_pb_bg_layout_light_tablet .et_pb_post .post-meta a,
+      .et-db #et-boc .et-l .et_pb_bg_layout_light_tablet .et_pb_post p {
+        color: #666; }
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_tablet .et_pb_post .post-meta,
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_tablet .et_pb_post .post-meta a,
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_tablet .et_pb_post p {
+        color: inherit; }
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_tablet .comment_postinfo span,
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_tablet .comment_postinfo a {
+        color: #fff; } }
+  @media all and (max-width: 767px) {
+    .et-db #et-boc .et-l {
+      /* Text Color - Layout Light - Phone */
+      /* Text Color - Layout Dark - Phone */ }
+      .et-db #et-boc .et-l .et_pb_post {
+        margin-bottom: 42px; }
+      .et-db #et-boc .et-l .et_pb_post > h2 {
+        font-size: 18px; }
+      .et-db #et-boc .et-l .et_pb_bg_layout_light_phone .et_pb_post .post-meta,
+      .et-db #et-boc .et-l .et_pb_bg_layout_light_phone .et_pb_post .post-meta a,
+      .et-db #et-boc .et-l .et_pb_bg_layout_light_phone .et_pb_post p {
+        color: #666; }
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_phone .et_pb_post .post-meta,
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_phone .et_pb_post .post-meta a,
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_phone .et_pb_post p {
+        color: inherit; }
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_phone .comment_postinfo span,
+      .et-db #et-boc .et-l .et_pb_bg_layout_dark_phone .comment_postinfo a {
+        color: #fff; } }
+  @media all and (max-width: 479px) {
+    .et-db #et-boc .et-l .et_pb_post {
+      margin-bottom: 42px; }
+    .et-db #et-boc .et-l .et_pb_post h2 {
+      font-size: 16px;
+      padding-bottom: 0; }
+    .et-db #et-boc .et-l .et_pb_post .post-meta {
+      color: #666;
+      font-size: 14px; } }
+
+
+/*# sourceMappingURL=posts_cpt.css.map*/

@@ -1,0 +1,59 @@
+.et_pb_circle_counter {
+  word-wrap: break-word; }
+
+.et_pb_circle_counter {
+  margin: 0 auto 30px;
+  position: relative;
+  text-align: center; }
+
+.et_pb_circle_counter {
+  max-width: 225px; }
+
+.et_pb_circle_counter_inner {
+  position: relative;
+  display: block; }
+
+.et_pb_circle_counter canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: auto !important; }
+
+.et_pb_circle_counter .percent {
+  word-wrap: initial; }
+
+.et_pb_circle_counter .percent {
+  position: relative;
+  z-index: 2; }
+
+.et_pb_circle_counter .percent p {
+  visibility: hidden; }
+
+.et_pb_circle_counter .percent p {
+  font-size: 40px;
+  font-weight: 500;
+  position: relative;
+  line-height: 0.1em;
+  padding: 49% 0; }
+
+.et_pb_circle_counter h3 {
+  font-size: 18px;
+  position: relative; }
+
+.et_pb_circle_counter .et_pb_module_header {
+  position: relative; }
+
+.et_pb_circle_counter.et_pb_with_title .percent {
+  margin-bottom: 20px; }
+
+/* Circle Counter Module */
+.et_pb_slide_content .et_pb_circle_counter .percent p:last-of-type {
+  font-size: 40px;
+  font-weight: 500;
+  position: relative;
+  line-height: 0.1em;
+  padding: 49% 0; }
+
+
+/*# sourceMappingURL=circle_counter.css.map*/
