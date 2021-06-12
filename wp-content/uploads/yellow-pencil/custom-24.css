@@ -1,349 +1,0 @@
-/*
-
-    The following CSS codes are created by the YellowPencil plugin.
-    https://yellowpencil.waspthemes.com/
-
-
-    T A B L E   O F   C O N T E N T S
-    ........................................................................
-
-    01. Global Styles
-    02. Non-Static Homepage
-    03. "HI" Post
-    04. "Home" Page
-    05. "Elementor #490" Page
-    06. "Home" Page
-
-*/
-
-
-
-/*-----------------------------------------------*/
-/*  Global Styles                                */
-/*-----------------------------------------------*/
-body #about .wp-block-group p{
-	display:none;
-}
-
-body #about .wp-block-group h2{
-	display:none;
-}
-
-body .ast-article-single .wp-block-cover{
-	min-height:631px !important;
-	height:631px;
-	-webkit-transform:translatex(0px) translatey(-5px);	-ms-transform:translatex(0px) translatey(-5px);	transform:translatex(0px) translatey(-5px);
-	background-size:contain !important;
-	background-color:rgba(0,229,229,0.84) !important;
-	background-position-x:10%;
-	display:inline-block;
-}
-
-body #about .wp-block-media-text .wp-image-358{
-	-webkit-transform:translatex(3px) translatey(-32px) !important;	-ms-transform:translatex(3px) translatey(-32px) !important;	transform:translatex(3px) translatey(-32px) !important;
-	-webkit-animation-fill-mode:both;	animation-fill-mode:both;
-}
-
-body #about .wp-block-media-text .wp-image-359{
-	display:inline-block;
-	-webkit-transform:translatex(7px) translatey(-5px) !important;	-ms-transform:translatex(7px) translatey(-5px) !important;	transform:translatex(7px) translatey(-5px) !important;
-	-webkit-animation-fill-mode:both;	animation-fill-mode:both;
-}
-
-body .wp-block-columns .wp-block-column .wp-block-image.yp_onscreen{
-	-webkit-animation-name:pop;	animation-name:pop;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-}
-
-body .wp-block-columns .wp-block-column .wp-block-image{
-	-webkit-animation-fill-mode:both;	animation-fill-mode:both;
-}
-
-body .wp-block-columns .size-large .wp-image-532.yp_onscreen{
-	-webkit-transform-origin:center bottom;	-ms-transform-origin:center bottom;	transform-origin:center bottom;
-	-webkit-animation-name:bounce;	animation-name:bounce;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body #about .wp-block-group a.yp_onscreen{
-	-webkit-animation-name:flash;	animation-name:flash;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body #site-navigation .menu-item .menu-text{
-	margin-right:10px;
-}
-
-@media (min-width:545px){
-
-	body .ast-article-single .wp-block-cover{
-	padding-bottom:0px;
-	}
-
-}
-
-
-
-/*-----------------------------------------------*/
-/*  Non-Static Homepage                          */
-/*-----------------------------------------------*/
-body.home .site-footer-primary-section-1 .widget p{
-	display:none;
-}
-
-body.home .ast-grid-center-col-layout .site-title a{
-	display:none;
-}
-
-body.home .ast-grid-center-col-layout .ast-flex img{
-	display:none;
-}
-
-body.home .site-footer-primary-section-2 .widget p{
-	display:none;
-}
-
-body.home .ast-builder-grid-row-3-equal .ast-builder-footer-grid-columns{
-	display:none;
-}
-
-
-
-/*-----------------------------------------------*/
-/*  "HI" Post                                    */
-/*-----------------------------------------------*/
-body.postid-1 #commentform{
-	display:none;
-}
-
-body.postid-1 .widget-area .widget h2{
-	display:none;
-}
-
-body.postid-1 #page{
-	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
-}
-
-
-
-/*-----------------------------------------------*/
-/*  "Home" Page                                  */
-/*-----------------------------------------------*/
-body.page-id-367 .ast-article-single .wp-block-cover h1{
-	-webkit-transform:translatex(16px) translatey(-10px);	-ms-transform:translatex(16px) translatey(-10px);	transform:translatex(16px) translatey(-10px);
-}
-
-body.page-id-367 .ast-grid-center-col-layout .site-title a{
-	display:none;
-}
-
-body.page-id-367 #services .wp-block-column .wp-block-group{
-	display:none;
-}
-
-body.page-id-367 #reviews{
-	display:none;
-}
-
-body.page-id-367 #colophon .ast-builder-grid-row-3-equal{
-	display:none;
-}
-
-body.page-id-367 #services > .wp-block-group__inner-container{
-	display:none;
-}
-
-body.page-id-367 #about .wp-block-group a{
-	display:none;
-}
-
-body.page-id-367 #about .wp-block-group h2{
-	-webkit-transform:translatex(46px) translatey(-9px);	-ms-transform:translatex(46px) translatey(-9px);	transform:translatex(46px) translatey(-9px);
-}
-
-body.page-id-367 #about .wp-block-media-text .wp-image-358{
-	display:inline-block;
-	-webkit-transform:translatex(-38px) translatey(-40px);	-ms-transform:translatex(-38px) translatey(-40px);	transform:translatex(-38px) translatey(-40px);
-	border-width:15px;
-	position:relative;
-	top:-21px;
-	z-index:109;
-}
-
-body.page-id-367 .wp-block-cover .wp-block-group h1{
-	min-height:139px;
-	margin-right:48px;
-	width:443px;
-	font-family:'Mystery Quest', display;
-}
-
-body.page-id-367 .wp-block-cover .wp-block-group h1.yp_onscreen{
-	-webkit-animation-name:rubberBand;	animation-name:rubberBand;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body.page-id-367 .wp-block-cover .wp-block-group a.yp_onscreen{
-	-webkit-transform-origin:top center;	-ms-transform-origin:top center;	transform-origin:top center;
-	-webkit-animation-name:swing;	animation-name:swing;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body.page-id-367 .wp-block-cover .wp-block-group img{
-	display:inline-block;
-	-webkit-transform:translatex(-47px) translatey(10px);	-ms-transform:translatex(-47px) translatey(10px);	transform:translatex(-47px) translatey(10px);
-}
-
-body.page-id-367 .wp-block-cover .wp-block-group img.yp_onscreen{
-	-webkit-transform-origin:center bottom;	-ms-transform-origin:center bottom;	transform-origin:center bottom;
-	-webkit-animation-name:bounce;	animation-name:bounce;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body.page-id-367 .ast-article-single .wp-block-cover{
-	background-color:rgba(37,187,187,0.84) !important;
-	-webkit-transform:translatex(5px) translatey(0px);	-ms-transform:translatex(5px) translatey(0px);	transform:translatex(5px) translatey(0px);
-}
-
-@media (min-width:922px){
-
-	body.page-id-367 .ast-article-single .wp-block-cover h1{
-	font-size:100px;
-	}
-
-}
-
-
-
-/*-----------------------------------------------*/
-/*  "Elementor #490" Page                        */
-/*-----------------------------------------------*/
-body.page-id-490 .site-footer-primary-section-2 .widget p{
-	display:none;
-}
-
-body.page-id-490 .ast-builder-html-element p iframe{
-	display:none;
-}
-
-body.page-id-490 .ast-builder-grid-row-3-equal .ast-builder-footer-grid-columns{
-	display:none;
-}
-
-body.page-id-490 .elementor-element-11de5d6 .elementor-widget-heading h2.yp_onscreen{
-	-webkit-animation-name:shake;	animation-name:shake;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-
-
-/*-----------------------------------------------*/
-/*  "Home" Page                                  */
-/*-----------------------------------------------*/
-body.page-id-519 .site-footer-primary-section-2 .widget p{
-	display:none;
-}
-
-body.page-id-519 .site-footer-primary-section-1 p strong{
-	display:none;
-}
-
-body.page-id-519 .site-footer-primary-section-1 .footer-widget-area .footer-widget-area-inner{
-	display:none;
-}
-
-body.page-id-519 .site-footer-primary-section-2 .widget h2{
-	display:none;
-}
-
-body.page-id-519 .ast-builder-html-element p iframe{
-	display:none;
-}
-
-body.page-id-519 #astra-footer-menu .menu-item .menu-link{
-	display:none;
-}
-
-body.page-id-519 .site-footer-primary-section-1 .ast-flex .footer-social-inner-wrap{
-	min-height:45px;
-	-webkit-transform:translatex(373px) translatey(119px);	-ms-transform:translatex(373px) translatey(119px);	transform:translatex(373px) translatey(119px);
-}
-
-body.page-id-519 .ast-grid-center-col-layout .site-title a{
-	display:none;
-}
-
-body.page-id-519 .wp-block-cover .wp-block-group h1{
-	-webkit-transform:translatex(-12px) translatey(33px);	-ms-transform:translatex(-12px) translatey(33px);	transform:translatex(-12px) translatey(33px);
-}
-
-body.page-id-519 .wp-block-cover .wp-block-group a{
-	-webkit-transform:translatex(151px) translatey(107px);	-ms-transform:translatex(151px) translatey(107px);	transform:translatex(151px) translatey(107px);
-}
-
-body.page-id-519 .wp-block-cover .wp-block-group a.yp_onscreen{
-	-webkit-animation-name:shake;	animation-name:shake;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body.page-id-519 .wp-block-cover .wp-block-group h1.yp_onscreen{
-	-webkit-animation-name:bounce,bounce;	animation-name:bounce,bounce;
-	-webkit-animation-delay:0s,1s;	animation-delay:0s,1s;
-	-webkit-animation-duration:1s,1s;	animation-duration:1s,1s;
-}
-
-body.page-id-519 .ast-article-single .wp-block-cover{
-	background-color:rgba(0,224,224,0.84) !important;
-}
-
-body.page-id-519 .wp-block-columns .size-large .wp-image-534.yp_onscreen{
-	-webkit-animation-name:rubberBand;	animation-name:rubberBand;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1.49s;	animation-duration:1.49s;
-}
-
-body.page-id-519 .wp-block-columns .size-large .wp-image-535.yp_onscreen{
-	-webkit-transform-origin:center bottom;	-ms-transform-origin:center bottom;	transform-origin:center bottom;
-	-webkit-animation-name:bounce;	animation-name:bounce;
-	-webkit-animation-delay:0s;	animation-delay:0s;
-	-webkit-animation-duration:1s;	animation-duration:1s;
-}
-
-body.page-id-519 .wp-block-columns .wp-block-column .wp-block-image{
-	-webkit-box-shadow:0px 0px 0px -50px #575757;	box-shadow:0px 0px 0px -50px #575757;
-}
-
-body.page-id-519 .elementor-widget-heading .elementor-heading-title span{
-	display:inline-block;
-	-webkit-transform:translatex(152px) translatey(-246px);	-ms-transform:translatex(152px) translatey(-246px);	transform:translatex(152px) translatey(-246px);
-	padding-top:26px;
-	padding-left:84px;
-	position:relative;
-	top:-95px;
-	left:49px;
-}
-
-body.page-id-519 #about .wp-block-group a{
-	padding-top:13px;
-	height:47px;
-	padding-bottom:34px;
-	position:relative;
-	top:182px;
-	padding-left:24px;
-}
-
-body.page-id-519 #about .wp-block-media-text{
-	-webkit-transform:translatex(0px) translatey(-6px);	-ms-transform:translatex(0px) translatey(-6px);	transform:translatex(0px) translatey(-6px);
-}
-
-body.page-id-519 #about .wp-block-group h5{
-	position:relative;
-	top:-17px;
-}
