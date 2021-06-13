@@ -1,0 +1,1 @@
+window.ETBuilderBackend=jQuery.extend(true,{"ajaxCache":{"ET_Builder_Global_Presets_History":{"history":[],"index":-1}}},window.ETBuilderBackend)
